@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoiceualidate",
+        "uuid": 21913768,
+        "checksum": "4dodbd"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
